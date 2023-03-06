@@ -3,7 +3,7 @@ Takes an allowed set of keys and filters out all other key/values pairs.
 
 ## Usage
 ```
-const { Objectfilter } = require('./main')
+const { Objectfilter } = require('objectfilterer')
 
 let obj = {
     a: 1,
